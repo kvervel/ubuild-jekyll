@@ -19,7 +19,7 @@ page_sections:
     button_text: Buy now!
   image:
     image: ''
-    alt_text: pilgrims
+    alt_text: ''
   background_image: ''
 - template: content-feature
   block: feature-1

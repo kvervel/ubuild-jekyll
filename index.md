@@ -18,7 +18,7 @@ page_sections:
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: Buy now!
   image:
-    image: "/uploads/2018/09/04/boxfront.png"
+    image: ''
     alt_text: pilgrims
   background_image: ''
 - template: content-feature

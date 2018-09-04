@@ -9,6 +9,14 @@ page_sections:
   navigation:
   - link: "/"
     link_text: home
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: "<strong>Playable Experience Designer</strong>"
+  content: I'm great - hire me
+  media:
+    image: "/uploads/2018/09/04/2017-09-25 12.40.21.jpg"
+    alt_text: Cute doodle of me
 - template: hero-banner-w-image
   block: hero-2
   headline: Pilgrims
@@ -21,14 +29,6 @@ page_sections:
     image: ''
     alt_text: ''
   background_image: ''
-- template: content-feature
-  block: feature-1
-  media_alignment: Left
-  headline: "<strong>Something something</strong>"
-  content: Ipsum etc etc
-  media:
-    image: "/uploads/2018/09/04/logo.png"
-    alt_text: Pilgrims logo
 - template: 1-column-text
   block: one-column-1
   headline: Purr

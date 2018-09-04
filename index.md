@@ -5,7 +5,7 @@ date: 2017-11-22 23:00:00 +0000
 page_sections:
 - template: navigation-header
   block: header-1
-  logo: "/uploads/2018/09/04/boldsignature-1.png"
+  logo: "/uploads/2018/09/04/boldsignature-2.png"
   navigation:
   - link: "/"
     link_text: home

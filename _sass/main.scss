@@ -1,8 +1,73 @@
+$primary-color: #8DBFB4;
+
 .block-header-1--logo img {
   max-height : 48px;
   max-height : 3rem;
 }
 
 .block-header-1 .nav-item {
-  font-size: 1.5rem;
+  font-size: 1.25rem;
+}
+
+.button.primary {
+  color            : #fff;
+  background-color : $primary-color;
+}
+
+.button.secondary {
+  border           : 1.5px solid $primary-color;
+  background-color : transparent;
+}
+
+.block-header-1 .nav-item.active a {
+  color : $primary-color;
+}
+
+.block-header-1 .nav-item.active a:hover {
+  color : $primary-color;
+}
+
+.block-header-2 .nav-item.active a {
+  color : $primary-color;
+}
+
+.block-header-2 .nav-item.active a:hover {
+  color : $primary-color;
+}
+
+.block-hero-1 {
+  --text             : #fff;
+  display            : -ms-flexbox;
+  display            : flex;
+  min-height         : 400px;
+  color              : var(--text);
+  background-color   : $primary-color;
+  text-align         : center;
+  align-items        : center;
+  -ms-flex-align     : center;
+  -ms-flex-direction : column;
+  flex-direction     : column;
+  -ms-flex-pack      : center;
+  justify-content    : center;
+}
+
+.block-hero-2 {
+  --text              : #fff;
+  min-height          : 100vh;
+  color               : var(--text);
+  background-color    : $primary-color;
+  background-repeat   : no-repeat;
+  background-position : 100%;
+  background-size     : auto 100%;
+  -ms-flex-direction  : column;
+  flex-direction      : column;
+  -ms-flex-pack       : center;
+  justify-content     : center;
+}
+
+.block-cta-bar {
+  padding    : 32px;
+  padding    : 2rem;
+  color      : #fff;
+  background : $primary-color;
 }

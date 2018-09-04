@@ -8,10 +8,6 @@ fields:
   label: block
   name: block
   default: header-1
-- type: file
-  name: logo
-  label: Logo
-  default: "/uploads/2018/09/04/signature.svg"
 - type: field_group_list
   name: navigation
   label: Navigation

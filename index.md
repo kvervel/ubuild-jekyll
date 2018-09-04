@@ -9,6 +9,7 @@ page_sections:
   navigation:
   - link: "/"
     link_text: home
+  undefined: "/uploads/2018/09/04/boldsignature-2.png"
 - template: hero-banner-w-image
   block: hero-2
   headline: Pilgrims

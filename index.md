@@ -19,7 +19,7 @@ page_sections:
     button_text: Buy now!
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
-    alt_text: Product Shot
+    alt_text: pilgrims
   background_image: "/uploads/2018/09/04/boxfront.png"
 - template: content-feature
   block: feature-1

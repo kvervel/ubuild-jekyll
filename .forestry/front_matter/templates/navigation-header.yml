@@ -8,7 +8,6 @@ fields:
   label: block
   name: block
   default: header-1
-- type: file
 - type: field_group_list
   name: navigation
   label: Navigation

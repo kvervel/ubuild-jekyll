@@ -15,7 +15,7 @@ page_sections:
   headline: "<strong>Playable Experience Designer</strong>"
   content: I'm great - hire me
   media:
-    image: "/uploads/2018/09/07/jodoodlemed.png"
+    image: "/uploads/2018/09/07/jodoodlemed-1.png"
     alt_text: Cute doodle of me
 - template: hero-banner-w-image
   block: hero-2

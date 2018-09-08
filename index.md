@@ -13,7 +13,7 @@ page_sections:
   block: feature-1
   media_alignment: Right
   headline: Jorid Jønland<strong><br>Playable Experience Designer</strong>
-  content: 'Take a look at some stuff I''ve made below:'
+  content: ''
   media:
     image: "/uploads/2018/09/07/jodoodlemed-1.png"
     alt_text: Cute doodle of me

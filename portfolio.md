@@ -31,5 +31,7 @@ page_sections:
   col_3:
     headline: Sea of Wishes
     content: I wrote a larp once. I'll make a website for it someday.
+- template: simple-footer
+  block: footer-1
 
 ---

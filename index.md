@@ -9,7 +9,7 @@ page_sections:
   navigation:
   - link: "/"
     link_text: home
-  - link: portfolio
+  - link: "/portfolio"
     link_text: portfolio
   - link: get in touch
     link_text: contact

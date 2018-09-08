@@ -16,5 +16,7 @@ page_sections:
   block: text-1
   headline: Wanna chat?
   content: "<p>You can reach me at</p><p>jorid(at)jonland.io</p>"
+- template: simple-footer
+  block: footer-1
 
 ---

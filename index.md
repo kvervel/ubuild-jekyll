@@ -11,9 +11,9 @@ page_sections:
     link_text: home
 - template: content-feature
   block: feature-1
-  media_alignment: Left
-  headline: "<strong>Playable Experience Designer</strong>"
-  content: I'm great - hire me
+  media_alignment: Right
+  headline: Jorid Jønland<strong><br>Playable Experience Designer</strong>
+  content: 'Take a look at some stuff I''ve made below:'
   media:
     image: "/uploads/2018/09/07/jodoodlemed-1.png"
     alt_text: Cute doodle of me

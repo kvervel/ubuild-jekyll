@@ -8,5 +8,15 @@ fields:
   type: text
   hidden: false
   default: default
+- type: text
+  name: heading
+  label: Heading
+- type: textarea
+  name: body
+  label: Body
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
 pages:
 - _posts/pilgrims.md

@@ -6,12 +6,12 @@ page_sections:
 - template: navigation-header
   block: header-1
   navigation:
-  - link: home
+  - link: "/"
     link_text: home
-  - link: portfolio
+  - link: "/portfolio"
     link_text: portfolio
-  - link: get in touch
-    link_text: contact
+  - link: "/contact"
+    link_text: get in touch
 - template: 3-column-text
   block: three-column-1
   col_1:

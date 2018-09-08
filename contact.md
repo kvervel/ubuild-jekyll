@@ -2,6 +2,10 @@
 title: contact
 layout: blocks
 date: 2018-09-08 09:49:30 +0000
-page_sections: []
+page_sections:
+- template: detail-content
+  block: text-1
+  headline: Wanna chat?
+  content: "<p>You can reach me at</p><p>jorid(at)jonland.io</p>"
 
 ---

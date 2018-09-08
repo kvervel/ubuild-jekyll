@@ -8,8 +8,5 @@ fields:
   type: text
   hidden: false
   default: default
-- type: text
-  name: heading
-  label: Heading
 pages:
 - _posts/2018-09-08-pilgrims.md

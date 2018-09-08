@@ -11,3 +11,13 @@ fields:
 - type: file
   name: image
   label: image
+page_sections:
+- template: navigation-header
+  block: header-1
+  navigation:
+  - link: "/"
+    link_text: home
+  - link: "/portfolio"
+    link_text: portfolio
+  - link: "/contact"
+    link_text: get in touch

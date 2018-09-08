@@ -6,12 +6,12 @@ page_sections:
 - template: navigation-header
   block: header-1
   navigation:
-  - link: get in touch
-    link_text: contact
-  - link: portfolio
-    link_text: portfolio
-  - link: home
+  - link: "/"
     link_text: home
+  - link: "/portfolio"
+    link_text: portfolio
+  - link: "/contact"
+    link_text: get in touch
 - template: detail-content
   block: text-1
   headline: Wanna chat?

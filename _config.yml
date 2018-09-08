@@ -5,6 +5,7 @@ description: >-
   Jorid Jønland: Playable Experience Designer and all-round nerd
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # your site's origin, e.g. https://forestry.io
+logo: "/uploads/2018/09/04/boldsignature-2.png"
 
 # Build settings
 defaults:

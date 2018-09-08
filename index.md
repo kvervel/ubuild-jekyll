@@ -7,10 +7,12 @@ page_sections:
   block: header-1
   logo: "/uploads/2018/09/04/boldsignature-2.png"
   navigation:
-  - link: portfolio
-    link_text: portfolio
   - link: "/"
     link_text: home
+  - link: portfolio
+    link_text: portfolio
+  - link: get in touch
+    link_text: contact
 - template: content-feature
   block: feature-1
   media_alignment: Right

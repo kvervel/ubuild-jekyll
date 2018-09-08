@@ -15,7 +15,7 @@ page_sections:
   headline: Jorid Jønland<strong><br>Playable Experience Designer</strong>
   content: ''
   media:
-    image: "/uploads/2018/09/07/jodoodlemed-1.png"
+    image: "/uploads/2018/09/08/jodoodlelandscmed-trans.png"
     alt_text: Cute doodle of me
 - template: hero-banner-w-image
   block: hero-2

@@ -1,0 +1,11 @@
+---
+label: post-default
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: headline
+  label: headline
+- type: file
+  name: image
+  label: image

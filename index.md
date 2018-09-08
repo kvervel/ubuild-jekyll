@@ -11,8 +11,8 @@ page_sections:
     link_text: home
   - link: "/portfolio"
     link_text: portfolio
-  - link: get in touch
-    link_text: contact
+  - link: "/contact"
+    link_text: get in touch
 - template: content-feature
   block: feature-1
   media_alignment: Right

@@ -36,17 +36,6 @@ page_sections:
   background_image: ''
 - template: posts-preview
   block: posts-preview
-- template: 3-column-text
-  block: three-column-1
-  col_1:
-    headline: Header 1
-    content: Content goes here
-  col_2:
-    headline: Header 2
-    content: Ipsum ipsum ipsum
-  col_3:
-    headline: Header 3
-    content: Meowmeowmeowmeowmeowmeow
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎

@@ -11,5 +11,3 @@ fields:
 - type: file
   name: image
   label: image
-pages:
-- _posts/2018-09-08-test-post-1.md

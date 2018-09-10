@@ -7,7 +7,7 @@
       <div class="column">
 
         <h3><a class="posts-preview" href="{{ post.url }}">{{ post.headline }}</a></h3>
-        <p>{{ post.excerpt }}</p>
+        <p>{{ post.excerpt | truncate: 200 }}</p>
 
       </div>
 

@@ -9,6 +9,7 @@ page_sections:
   - link: "/"
     link_text: home
 - template: posts-preview
+  block: posts-preview
 - template: simple-footer
   block: footer-1
 

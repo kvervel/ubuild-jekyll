@@ -2,11 +2,12 @@
   <div class="container">
     <div class="columns">
 
-      {% for posts in site.posts %}
+      {% for post in site.posts %}
 
       <div class="column">
-        <h3>{{ post.headline }}</h3>
-        <p>{{ post.content }}</p>
+
+        <h3><a class="posts-preview" href="{{ post.url }}">{{ post.headline }}</a></h3>
+        <p>{{ post.excerpt }}</p>
 
       </div>
 

@@ -33,6 +33,7 @@ fields:
   - simple-footer
   - 4-column-footer
 pages:
+- test-page.md
 - portfolio.md
 - contact.md
 - index.md

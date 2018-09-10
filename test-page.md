@@ -8,6 +8,5 @@ page_sections:
 - template: posts-preview
 - template: simple-footer
   block: footer-1
-published: false
 
 ---

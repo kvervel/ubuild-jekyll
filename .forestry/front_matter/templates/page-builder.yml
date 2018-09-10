@@ -34,7 +34,6 @@ fields:
   - simple-footer
   - 4-column-footer
 pages:
-- _posts/charactersheets.md
 - test-page.md
 - portfolio.md
 - contact.md

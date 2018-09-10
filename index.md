@@ -34,6 +34,8 @@ page_sections:
     image: ''
     alt_text: ''
   background_image: ''
+- template: simple-header
+  block: header-3
 - template: posts-preview
   block: posts-preview
 - template: simple-footer

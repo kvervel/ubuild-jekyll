@@ -6,6 +6,8 @@ page_sections:
 - template: navigation-header
   block: header-1
   navigation:
+  - link: "/test-page"
+    link_text: test-page
   - link: "/"
     link_text: home
   - link: "/portfolio"

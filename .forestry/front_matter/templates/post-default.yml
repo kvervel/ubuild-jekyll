@@ -12,6 +12,6 @@ fields:
   name: image
   label: image
 pages:
-- _posts/2018-09-10-charactersheet.md
-- _posts/2018-09-10-sea-of-wishes.md
 - _posts/2018-09-10-pilgrims.md
+- _posts/2018-09-10-sea-of-wishes.md
+- _posts/2018-09-10-charactersheet.md

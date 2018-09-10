@@ -1,5 +1,10 @@
 ---
 title: Pilgrims
 date: 2018-09-10 16:00:56 +0000
+headline: Pilgrims
+image: "/uploads/2018/09/04/logo.png"
 
 ---
+Together with two classmates, I made a social board game about exploration and connection. 
+
+Lorem ipsum more content.

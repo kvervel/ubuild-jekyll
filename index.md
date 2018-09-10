@@ -38,6 +38,12 @@ page_sections:
   block: posts-preview
 - template: 3-column-text
   block: three-column-1
+  col_1:
+    headline: Header 1
+    content: Content goes here
+  col_2:
+    headline: Header 2
+    content: Ipsum ipsum ipsum
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎

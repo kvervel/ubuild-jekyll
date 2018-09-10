@@ -35,6 +35,7 @@ page_sections:
     alt_text: ''
   background_image: ''
 - template: posts-preview
+  block: posts-preview
 - template: 3-column-text
   block: three-column-1
 - template: simple-footer

@@ -44,6 +44,9 @@ page_sections:
   col_2:
     headline: Header 2
     content: Ipsum ipsum ipsum
+  col_3:
+    headline: Header 3
+    content: Meowmeowmeowmeowmeowmeow
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎

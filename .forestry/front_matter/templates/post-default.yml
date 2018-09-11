@@ -11,6 +11,18 @@ fields:
 - type: file
   name: image
   label: image
+- type: field_group
+  label: Image
+  name: media
+  fields:
+  - type: file
+    name: image
+    label: image
+  - type: text
+    name: alt_text
+    label: alt text
+    config:
+      required: true
 pages:
 - _posts/2018-09-10-pilgrims.md
 - _posts/2018-09-10-sea-of-wishes.md

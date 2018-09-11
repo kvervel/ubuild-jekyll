@@ -8,9 +8,6 @@ fields:
   name: headline
   config:
     required: true
-- type: file
-  name: image
-  label: image
 - type: field_group
   label: Image
   name: media

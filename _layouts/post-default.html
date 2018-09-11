@@ -7,7 +7,9 @@
     <div class="columns">
       <div class="column">
         <h2>{{ page.headline }}</h3>
-        <img class="media" src="{{ page.media.image | relative_url }}" alt="{{ page.media.alt_text }}">
+        <div class="column media">
+          <img class="media" src="{{ page.media.image | relative_url }}" alt="{{ page.media.alt_text }}">
+        </div>
         <p>{{ page.content }}</p>
       </div>
     </div>

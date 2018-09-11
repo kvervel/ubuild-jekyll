@@ -1,4 +1,4 @@
-<section class="block block-posts-preview">
+<section class="block block-posts-preview" id="posts-preview">
   <div class="container">
     <div class="columns">
 
@@ -7,7 +7,13 @@
       <div class="column">
 
         <h3><a class="posts-preview" href="{{ post.url }}">{{ post.headline }}</a></h3>
-        <p>{{ post.excerpt | truncate: 200 }}</p>
+        <div class="column media">
+          <img src="{{ post.media.image | relative_url }}" alt="{{ post.media.alt_text }}">
+        </div>
+
+        <div class="column text">
+          <p>{{ post.excerpt | truncate: 200 }}</p>
+        </div>
 
       </div>
 

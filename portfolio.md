@@ -6,6 +6,7 @@ page_sections:
 - template: navigation-header
   block: header-1
 - template: posts-preview
+  block: posts-preview
 - template: simple-footer
   block: footer-1
 

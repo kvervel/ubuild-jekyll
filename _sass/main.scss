@@ -134,29 +134,7 @@ h3 {
     max-width: 100%;
     min-width: 100%;
     overflow: hidden;
-    position: relative;
-    float: left;
     margin: 0px 0px 2rem
-}
-
-.block-posts-preview .media:before {
-    content: "";
-    display: block;
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    background: none;
-}
-
-.block-posts-preview .media:hover:before {
-
-  background: rgba(141, 191, 180, 0.5);
-  -moz-transition: background .3s linear;
-  -webkit-transition: background .3s linear;
-  -o-transition: background .3s linear;
-  transition: background .3s linear;
 }
 
 

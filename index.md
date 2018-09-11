@@ -7,7 +7,7 @@ page_sections:
   block: header-1
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   headline: Jorid Jønland<strong><br>Playable Experience Designer</strong>
   content: ''
   media:

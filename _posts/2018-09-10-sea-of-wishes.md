@@ -18,4 +18,4 @@ Since its creation, the larp has been played in four different countries and tra
 
 ![A person is kneeling on a tiled stone floor. In front of them lies five cards, face down. The room is dark, and a spotlight is shining on the person and the cards. ](/uploads/2018/09/11/seaofwishes-play.jpg)
 
-_Picture taken from our very first run of_ Sea of Wishes in Vilnius, Lithuania_._
+_Picture taken from our very first run of_ Sea of Wishes _in Vilnius, Lithuania._

@@ -5,13 +5,6 @@ date: 2018-09-08 00:00:00 +0000
 page_sections:
 - template: navigation-header
   block: header-1
-  navigation:
-  - link: "/"
-    link_text: home
-  - link: "/portfolio"
-    link_text: portfolio
-  - link: "/contact"
-    link_text: get in touch
 - template: 3-column-text
   block: three-column-1
   col_1:

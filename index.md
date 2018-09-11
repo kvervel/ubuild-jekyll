@@ -5,13 +5,6 @@ date: 2017-11-22 23:00:00 +0000
 page_sections:
 - template: navigation-header
   block: header-1
-  navigation:
-  - link: "/"
-    link_text: home
-  - link: "/portfolio"
-    link_text: portfolio
-  - link: "/contact"
-    link_text: get in touch
 - template: content-feature
   block: feature-1
   media_alignment: Right

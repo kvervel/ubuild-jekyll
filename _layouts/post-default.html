@@ -2,11 +2,12 @@
 {% include block-header-1.html %}
 <!-- Add your site or application content here -->
 
-<section class="block block-one-column-1">
+<section class="block post-default block-one-column-1">
   <div class="container">
     <div class="columns">
       <div class="column">
-        <h3>{{ page.headline }}</h3>
+        <h2>{{ page.headline }}</h3>
+        <img class="media" src="{{ page.media.image | relative_url }}" alt="{{ page.media.alt_text }}">
         <p>{{ page.content }}</p>
       </div>
     </div>

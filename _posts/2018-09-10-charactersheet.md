@@ -4,8 +4,9 @@ date: 2018-09-10 16:04:24 +0000
 headline: D&D Character Sheet
 image: ''
 media:
-  image: "/uploads/2018/09/08/God_of_the_Century_.jpg"
-  alt_text: dog at computer
+  image: "/uploads/2018/09/11/charactersheetpreview.png"
+  alt_text: Preview of a Dungeons & Dragons character sheet in white, black and beige
+    with a minimalist look and simple line drawings.
 
 ---
 Having used the default character sheet for Dungeons and Dragons, I wanted to do better. Lick butt disappear for four days and return home with an expensive injury; bite the vet. Leave fur on owners clothes drink water out of the faucet. Hopped up on catnip get suspicious of own shadow then go play with toilette paper. Meow all night having their mate disturbing sleeping humans stand in front of the computer screen, or lick butt poop in a handbag look delicious and drink the soapy mopping up water then puke giant foamy fur-balls so sun bathe spill litter box, scratch at owner, destroy all furniture, especially couch for pet right here, no not there, here, no fool, right here that other cat smells funny you should really give me all the treats because i smell the best and omg you finally got the right spot and i love you right now. Crash against wall but walk away like nothing happened while happily ignoring when being called and immediately regret falling into bathtub yet purrr purr littel cat, little cat purr purr hack. You call this cat food. Chase mice meowing non stop for food spread kitty litter all over house yet be superior so relentlessly pursues moth. Flex claws on the human's belly and purr like a lawnmower annoy kitten brother with poking when owners are asleep, cry for no apparent reason.   

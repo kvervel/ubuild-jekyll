@@ -147,19 +147,24 @@ h3 {
     bottom: 0;
     left: 0;
     right: 0;
-    background: rgba(141, 191, 180, 0.5);
-    -moz-transition: background .3s linear;
-    -webkit-transition: background .3s linear;
-    -o-transition: background .3s linear;
-    transition: background .3s linear;
+    background: none;
 }
 
 .block-posts-preview .media:hover:before {
-  background: none;
+
+  background: rgba(141, 191, 180, 0.5);
+  -moz-transition: background .3s linear;
+  -webkit-transition: background .3s linear;
+  -o-transition: background .3s linear;
+  transition: background .3s linear;
 }
 
 
 .block-posts-preview img {
     height: 100%;
     width: 100%
+}
+
+.post-default .media {
+  max-width: 100%;
 }

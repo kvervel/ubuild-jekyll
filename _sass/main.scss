@@ -4,6 +4,13 @@ h3 {
   font-size: 1.5rem;
 }
 
+.block-footer-1 a {
+  color            : #666;
+}
+.block-footer-1 a:hover {
+  color            : $primary-color;
+}
+
 .block-header-1--logo img {
   max-height : 48px;
   max-height : 3rem;

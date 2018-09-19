@@ -92,6 +92,20 @@ h3 {
   justify-content     : center;
 }
 
+.block-contact-divider {
+  --text              : #fff;
+  min-height          : 10rem;
+  color               : var(--text);
+  background-color    : $primary-color;
+  background-repeat   : no-repeat;
+  background-position : 100%;
+  background-size     : auto 100%;
+  -ms-flex-direction  : column;
+  flex-direction      : column;
+  -ms-flex-pack       : center;
+  justify-content     : center;
+}
+
 .block-cta-bar {
   padding    : 32px;
   padding    : 2rem;

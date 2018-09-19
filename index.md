@@ -13,6 +13,8 @@ page_sections:
   media:
     image: "/uploads/2018/09/08/jodoodlelandscmed-trans.png"
     alt_text: Cute doodle of me
+- template: contact-divider
+  block: contact-divider
 - template: posts-preview
   block: posts-preview
 - template: simple-footer

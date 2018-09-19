@@ -14,7 +14,10 @@ page_sections:
     alt_text: Cute doodle of me
 - template: contact-divider
   block: contact-divider
-  headline: Wanna chat? Drop me a line at jorid(at)jonland.io
+  headline: |-
+    Wanna chat? Drop me a line at jorid(at)jonland.io
+
+    Wanna see what I've done previously? Take a look below:
   content: ''
 - template: posts-preview
   block: posts-preview

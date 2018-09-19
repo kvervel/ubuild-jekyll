@@ -9,7 +9,7 @@ fields:
   config:
     required: true
 - type: field_group
-  label: Image
+  label: Media
   name: media
   fields:
   - type: file

@@ -4,7 +4,31 @@ hide_body: false
 is_partial: true
 fields:
 - type: text
-  name: headline
-  label: Headline
+  label: block
+  name: block
+  hidden: true
+  default: contact-divider
+- type: textarea
   config:
-    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Headline
+  name: headline
+- type: textarea
+  name: content
+  label: Content
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+- type: field_group
+  name: media
+  label: Media
+  fields:
+  - type: file
+    name: image
+    label: Image
+  - type: text
+    name: alt_text
+    label: Alt text

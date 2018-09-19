@@ -2,4 +2,9 @@
 label: contact-divider
 hide_body: false
 is_partial: true
-fields: []
+fields:
+- type: text
+  name: headline
+  label: Headline
+  config:
+    required: true

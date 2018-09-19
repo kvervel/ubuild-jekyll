@@ -3,8 +3,6 @@ layout: blocks
 title: Homepage
 date: 2017-11-22 23:00:00 +0000
 page_sections:
-- template: navigation-header
-  block: header-1
 - template: content-feature
   block: feature-1
   media_alignment: Left

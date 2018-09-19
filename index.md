@@ -13,18 +13,6 @@ page_sections:
   media:
     image: "/uploads/2018/09/08/jodoodlelandscmed-trans.png"
     alt_text: Cute doodle of me
-- template: hero-banner-w-image
-  block: hero-2
-  headline: Pilgrims
-  content: I made a game. It's pretty cool.
-  cta:
-    enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: Buy now!
-  image:
-    image: ''
-    alt_text: ''
-  background_image: ''
 - template: posts-preview
   block: posts-preview
 - template: simple-footer

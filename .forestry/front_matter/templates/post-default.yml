@@ -21,7 +21,7 @@ fields:
     config:
       required: true
 pages:
+- _posts/2018-09-01-sea-of-wishes.md
+- _posts/2018-09-08-pilgrims.md
 - _posts/2018-09-19-hacksmiths-autumn18.md
 - _posts/2018-09-10-charactersheet.md
-- _posts/2018-09-08-pilgrims.md
-- _posts/2018-09-01-sea-of-wishes.md

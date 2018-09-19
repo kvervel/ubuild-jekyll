@@ -18,6 +18,7 @@ fields:
   name: page_sections
   label: Page Sections
   template_types:
+  - contact-divider
   - posts-preview
   - navigation-header
   - navigation-header-w-button

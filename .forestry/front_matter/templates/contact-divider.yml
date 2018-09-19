@@ -7,4 +7,4 @@ fields:
   name: headline
   label: Headline
   config:
-    required: true
+    required: false

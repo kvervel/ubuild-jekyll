@@ -94,7 +94,7 @@ h3 {
 
 .block-contact-divider {
   --text              : #fff;
-  min-height          : 15rem;
+  min-height          : 12rem;
   color               : var(--text);
   background-color    : $primary-color;
   background-repeat   : no-repeat;
@@ -108,6 +108,10 @@ h3 {
 
 .block-contact-divider p {
   color               : #fff;
+}
+
+.block-contact-divider h2 {
+  font-size: 1.5rem;
 }
 
 .block-cta-bar {
@@ -164,4 +168,64 @@ h3 {
 
 .post-default .media {
   max-width: 100%;
+}
+
+.block-feature-2 .columns {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    text-align: center
+}
+
+.block-feature-2 .column.text {
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    -ms-flex-order: 1;
+    order: 1;
+    margin-bottom: 32px;
+    margin-bottom: 2rem
+}
+
+.block-feature-2 .column.media {
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    -ms-flex-order: 2;
+    order: 2;
+    margin-right: 0
+}
+
+.block-feature-2 .column.text h2 {
+    margin-bottom: 16px;
+    margin-bottom: 1rem
+}
+
+.block-feature-2 .column.media img {
+    max-width: 100%
+}
+
+@media screen and (min-width: 750px) {
+    .block-feature-2 .columns {
+      -ms-flex-wrap: nowrap;
+      flex-wrap: nowrap;
+      text-align:left
+    }
+
+    .block-feature-2 .column.text {
+      -ms-flex: 1 1 calc(50% - 4rem);
+      flex: 1 1 calc(50% - 4rem);
+        -ms-flex-order: 2;
+        order: 1;
+        margin-bottom: 0
+    }
+
+    .block-feature-2 .column.media {
+        -ms-flex: 1 1 calc(50% - 4rem);
+        flex: 1 1 calc(50% - 4rem);
+
+        -ms-flex-order: 1;
+        order: 2
+    }
 }

@@ -2,7 +2,6 @@
 title: charactersheet
 date: 2018-09-10 16:04:24 +0000
 headline: 'Graphic Design: D&D Character Sheet'
-image: ''
 media:
   image: "/uploads/2018/09/11/charactersheetpreview.png"
   alt_text: Preview of a Dungeons & Dragons character sheet in white, black and beige

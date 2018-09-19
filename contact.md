@@ -8,7 +8,7 @@ page_sections:
 - template: detail-content
   block: text-1
   headline: Wanna chat?
-  content: "<p>You can reach me at</p><p>jorid(at)jonland.io</p>"
+  content: "<p>You can reach me at jorid(at)jonland.io</p>"
 - template: simple-footer
   block: footer-1
 

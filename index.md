@@ -14,8 +14,8 @@ page_sections:
     alt_text: Cute doodle of me
 - template: contact-divider
   block: contact-divider
-  headline: ''
-  content: Wanna chat? Drop me a line at jorid(at)jonland.io
+  headline: Wanna chat? Drop me a line at jorid(at)jonland.io
+  content: ''
 - template: posts-preview
   block: posts-preview
 - template: simple-footer

@@ -15,9 +15,7 @@ page_sections:
 - template: contact-divider
   block: contact-divider
   headline: Wanna chat? Drop me a line at jorid(at)jonland.io
-  content: |2-
-
-    Wanna see what I've done previously? Take a look below:
+  content: 'Wanna see what I''ve done previously? Take a look below:'
 - template: posts-preview
   block: posts-preview
 - template: simple-footer

@@ -15,6 +15,8 @@ page_sections:
     alt_text: Cute doodle of me
 - template: contact-divider
   block: contact-divider
+  headline: Get in touch!
+  content: jorid(at)jonland.io
 - template: posts-preview
   block: posts-preview
 - template: simple-footer

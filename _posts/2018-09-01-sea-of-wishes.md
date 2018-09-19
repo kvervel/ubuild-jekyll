@@ -2,7 +2,7 @@
 title: sea-of-wishes
 date: 2018-09-01 16:02:40 +0000
 headline: 'Larp Design: Sea of Wishes'
-image: "/uploads/2018/09/10/WIN_20180909_12_34_28_Pro.jpg"
+image: ''
 media:
   image: "/uploads/2018/09/11/seaofwishes-paper.jpg"
   alt_text: A stack of paper, a list of tarot cards and some stationary on a desk.

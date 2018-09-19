@@ -9,7 +9,7 @@ page_sections:
   block: feature-1
   media_alignment: Left
   headline: Jorid Jønland<strong><br>Playable Experience Designer</strong>
-  content: ''
+  content: 'Maker of experiences, electronics, games and other shiny things. '
   media:
     image: "/uploads/2018/09/08/jodoodlelandscmed-trans.png"
     alt_text: Cute doodle of me

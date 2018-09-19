@@ -9,7 +9,7 @@ media:
     larp script for Sea of Wishes.
 
 ---
-I was introduced to an international community of people who use larp to express themselves artistically and politically in the summer of 2015, when I attended the week-long ['Larpwriter Summer School'](https://larpschool.blogspot.com/), a seminar on larp design with participants from all over the world. On a follow-up seminar the following winter, I wrote the larp 'Sea of Wishes' in collaboration with Belarusian larp writer, copywriter, photograper and all-round superwoman [Elena Rabkina](https://www.rabkina.com/) and Danish journalist and larp-genius Frederikke B. Høyer.
+I was introduced to an international community of people who use larp to express themselves artistically and politically in the summer of 2015, when I attended the week-long ['Larpwriter Summer School'](https://larpschool.blogspot.com), a seminar on larp design with participants from all over the world. On a follow-up seminar the following winter, I wrote the larp 'Sea of Wishes' in collaboration with Belarusian larp writer, copywriter, photograper and all-round superwoman [Elena Rabkina](https://www.rabkina.com) and Danish journalist and larp-genius Frederikke B. Høyer.
 
 _Sea of Wishes_ is a larp that draws on the fairy tale genre to create stories about conflicts between the community and the individual. Through the larp, the participants create their own fairy tale about a small fisherman village on an island in the middle of the ocean, where the community is faced with questions of sacrifice, selfishness, wishes and desires.
 

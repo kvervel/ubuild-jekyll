@@ -2,22 +2,39 @@
   <div class="container">
     <div class="columns">
 
-      {% for post in site.posts %}
+      {% if page.title == 'portfolio' %}
+        {% for post in site.posts %}
+        <div class="column">
 
-      <div class="column">
+          <h3><a class="posts-preview" href="{{ post.url }}">{{ post.headline }}</a></h3>
+          <div class="column media">
+            <img src="{{ post.media.image | relative_url }}" alt="{{ post.media.alt_text }}">
+          </div>
 
-        <h3><a class="posts-preview" href="{{ post.url }}">{{ post.headline }}</a></h3>
-        <div class="column media">
-          <img src="{{ post.media.image | relative_url }}" alt="{{ post.media.alt_text }}">
+          <div class="column text">
+            <p>{{ post.excerpt | strip_html | truncatewords: 20 }}</p>
+          </div>
+
         </div>
+        {% endfor %}
 
-        <div class="column text">
-          <p>{{ post.excerpt | truncate: 200 }}</p>
+      {% else %}
+        {% for post in site.posts limit:6 %}
+        <div class="column">
+
+          <h3><a class="posts-preview" href="{{ post.url }}">{{ post.headline }}</a></h3>
+          <div class="column media">
+            <img src="{{ post.media.image | relative_url }}" alt="{{ post.media.alt_text }}">
+          </div>
+
+          <div class="column text">
+            <p>{{ post.excerpt | strip_html | truncatewords: 20 }}</p>
+          </div>
+
         </div>
+        {% endfor %}
+      {% endif %}
 
-      </div>
-
-      {% endfor %}
 
       </div>
   </div>

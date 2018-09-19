@@ -10,7 +10,7 @@ page_sections:
     alt="My signature: Jorid Jønland"><strong><br>Playable Experience Designer</strong>'
   content: 'Maker of experiences, electronics, games and other shiny things. '
   media:
-    image: "/uploads/2018/09/08/jodoodlelandscmed-trans.png"
+    image: "/uploads/2018/09/19/jodoodlelportrmed-trans.png"
     alt_text: Cute doodle of me
 - template: contact-divider
   block: contact-divider

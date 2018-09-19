@@ -6,8 +6,8 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: <img src="/uploads/2018/09/04/boldsignature-2.png"><strong><br>Playable
-    Experience Designer</strong>
+  headline: '<img src="/uploads/2018/09/04/boldsignature-2.png" title="signature"
+    alt="My signature: Jorid Jønland"><strong><br>Playable Experience Designer</strong>'
   content: 'Maker of experiences, electronics, games and other shiny things. '
   media:
     image: "/uploads/2018/09/08/jodoodlelandscmed-trans.png"

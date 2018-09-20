@@ -14,7 +14,7 @@ page_sections:
     alt_text: Cute doodle of me
 - template: contact-divider
   block: contact-divider
-  headline: Take a look at my portfolio below or drop me a line at **jorid(at)jonland.io**
+  headline: Take a look at my portfolio below or drop me a line at <a href="mailto:jorid@jonland.io">jorid@jonland.io</a>
   content: ''
 - template: posts-preview
   block: posts-preview

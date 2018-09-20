@@ -211,7 +211,8 @@ h3 {
 
 .block-feature-2 .column.text h2 {
     margin-bottom: 16px;
-    margin-bottom: 1rem
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
 }
 
 .block-feature-2 .column.media img {
@@ -219,11 +220,33 @@ h3 {
     max-height: 50vh
 }
 
+.clip {
+  width: 100%;
+}
+
+.clip img {
+  width: 100%;
+}
+
+.contact-block {
+  background: $primary-color;
+  color: white;
+  padding: 2rem;
+  min-height: 25vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.contact-block h3 {
+  font-weight: 300;
+}
+
 @media screen and (min-width: 750px) {
     .block-feature-2 .columns {
       -ms-flex-wrap: nowrap;
       flex-wrap: nowrap;
-      text-align:left
+      text-align: center;
     }
 
     .block-feature-2 .column.text {
@@ -241,4 +264,24 @@ h3 {
         -ms-flex-order: 1;
         order: 2
     }
+
+    .block-feature-2 .column.text h2 {
+        font-size: 2rem;
+    }
+}
+
+.post-default {
+  display: flex;
+  flex-direction: column;
+
+}
+
+.post-default img {
+  max-width: 100%;
+
+}
+
+.post-default p {
+  margin: 1rem 0;
+text-align: left;
 }

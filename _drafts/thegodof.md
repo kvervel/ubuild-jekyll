@@ -10,3 +10,14 @@ media:
 date: 2019-03-03 20:10:52 +0000
 
 ---
+You are a god, visiting the realm of humans. What will you tell them?
+
+I made a small single-player larp during a two hour game jam. The first prototype was made with strips of paper ripped out of my notebook, so I decided to make a printable version so that other people could try it out!
+
+I have kept most of the writing exactly as the original prototype, so all kinds of feedback, both on writing and design, is much appreciated.
+
+Here it is:
+
+[thegodof.pdf](/uploads/2019/03/03/thegodof.pdf "thegodof.pdf")
+
+Enjoy!

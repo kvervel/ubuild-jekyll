@@ -1,7 +1,6 @@
 ---
 label: page-builder
 hide_body: true
-is_partial: false
 fields:
 - type: text
   label: Title
@@ -35,6 +34,6 @@ fields:
   - simple-footer
   - 4-column-footer
 pages:
+- contact.md
 - index.md
 - portfolio.md
-- contact.md
